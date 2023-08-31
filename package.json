@@ -1,0 +1,21 @@
+{
+  "name": "my-vue-app-js",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@aehrc/smart-forms-renderer": "^0.3.0",
+    "veaury": "^2.3.12"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.3.4",
+    "@vitejs/plugin-react": "^4.0.4",
+    "@vitejs/plugin-vue-jsx": "^3.0.2",
+    "vite": "^4.4.5"
+  }
+}
